@@ -5,7 +5,14 @@
 #### 不朽的乌拉拉：极速版
 
 <video src="./sofunny/videos/项目视频/不朽的乌拉拉：极速版.mp4" width="300" height="280"></video>
-[不朽的乌拉拉：极速版](sofunny/videos/项目视频/不朽的乌拉拉：极速版.mp4)
+
+[不朽的乌拉拉：极速版1](./sofunny/videos/项目视频/不朽的乌拉拉：极速版.mp4)
+
+<p align="center"> <video src="./sofunny/videos/项目视频/不朽的乌拉拉：极速版.mp4" width="512"/></p>
+
+[不朽的乌拉拉：极速版2](./sofunny/videos/项目视频/litewll.gif)
+
+<p align="center"> <img src="./sofunny/videos/项目视频/litewll.gif?raw=true" width="512"/></p>
 
 #### 夺金联盟
 
