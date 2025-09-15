@@ -4,19 +4,16 @@
 
 #### 不朽的乌拉拉：极速版
 
-<video src="./sofunny/videos/项目视频/不朽的乌拉拉：极速版.mp4" width="300" height="280"></video>
-
-[不朽的乌拉拉：极速版1](./sofunny/videos/项目视频/不朽的乌拉拉：极速版.mp4)
-
-<p align="center"> <video src="./sofunny/videos/项目视频/不朽的乌拉拉：极速版.mp4" width="512"/></p>
-
-[不朽的乌拉拉：极速版2](./sofunny/videos/项目视频/litewll.gif)
-
 <p align="center"> <img src="./sofunny/videos/项目视频/litewll.gif?raw=true" width="512"/></p>
 
 #### 夺金联盟
 
-<video src="./sofunny/videos/项目视频/夺金联盟.mp4.mp4.mov" width="600" height="480" controls></video>
+<video src="./sofunny/videos/项目视频/夺金联盟.mp4" width="600" height="480" controls></video>
+
+
+#### 龙击社
+
+<p align="center"> <img src="./sofunny/videos/项目视频/ljs2.gif?raw=true" width="512"/></p>
 
 
 ### Other
