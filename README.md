@@ -4,7 +4,8 @@
 
 #### 不朽的乌拉拉：极速版
 
-<video src="./sofunny/videos/项目视频/不朽的乌拉拉：极速版.mp4.mov" width="600" height="480" controls></video>
+<video src="./sofunny/videos/项目视频/不朽的乌拉拉：极速版.mp4" width="300" height="280"></video>
+[不朽的乌拉拉：极速版](sofunny/videos/项目视频/不朽的乌拉拉：极速版.mp4)
 
 #### 夺金联盟
 
